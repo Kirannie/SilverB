@@ -74,20 +74,21 @@
 </nav>
 
 <div class="personal-intro">
-    <h2>Hi, I'm [Your Name]</h2>
+    <h2>Hi, I'm [Kirannie]</h2>
     <p>Welcome to my Kpop Wallpapers collection!</p>
 </div>
 
 <div class="wallpaper-categories" id="categories">
-    <div>BTS</div>
+    <div>RIIZE</div>
     <div>EXO</div>
     <div>TWICE</div>
-    <div>BLACKPINK</div>
-    <!-- Add more categories as needed -->
+    <div>Red Velvet</div>
+    <div>Seventeen</div>
+    <div>Enhypen</div>
 </div>
 
 <footer>
-    <p>&copy; 2024 Kpop Wallpapers by [Your Name]</p>
+    <p>&copy; 2024 Kpop Wallpapers by [Kirannie]</p>
 </footer>
 
 </body>
