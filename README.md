@@ -79,12 +79,54 @@
 </div>
 
 <div class="wallpaper-categories" id="categories">
-    <div>RIIZE</div>
+    <div>Riize</div>
     <div>EXO</div>
-    <div>TWICE</div>
+    <div>Twice</div>
     <div>Red Velvet</div>
     <div>Seventeen</div>
     <div>Enhypen</div>
+</div>
+
+<div class="wallpaper-category" id="riize">
+    <h2>Riize</h2>
+    <div class="wallpaper">
+        <img src="E:/1/微信图片_20241208025106.jpg" alt="Riize Wallpaper" />
+    </div>
+</div>
+
+<div class="wallpaper-category" id="exo">
+    <h2>EXO</h2>
+    <div class="wallpaper">
+        <img src="E:/1/微信图片_20241208025105.jpg" alt="EXO Wallpaper" />
+    </div>
+</div>
+
+<div class="wallpaper-category" id="twice">
+    <h2>TWICE</h2>
+    <div class="wallpaper">
+        <img src="E:/1/微信图片_202412080251061.jpg" alt="TWICE Wallpaper" />
+    </div>
+</div>
+
+<div class="wallpaper-category" id="red velvet">
+    <h2>Red velvet</h2>
+    <div class="wallpaper">
+        <img src="E:/1/微信图片_20241208025104.jpg" alt="Red velvet Wallpaper" />
+    </div>
+</div>
+
+<div class="wallpaper-category" id="seventeen">
+    <h2>Seventeen</h2>
+    <div class="wallpaper">
+        <img src="E:/1/微信图片_20241208025107.jpg" alt="Seventeen Wallpaper" />
+    </div>
+</div>
+
+<div class="wallpaper-category" id="enhypen">
+    <h2>Enhypen</h2>
+    <div class="wallpaper">
+        <img src="E:/1/微信图片_20241208025207.jpg" alt="Enhypen Wallpaper" />
+    </div>
 </div>
 
 <footer>
